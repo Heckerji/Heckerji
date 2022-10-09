@@ -1,5 +1,5 @@
-# 💗 Weclome to my github page
-> 👋 Hi, I’m HackerJi
+# 😃 Hi, Weclome to my github page
+> 👋 I’m HackerJi
 >> 😁 This account will recording my coding project
 >>> 😎 I’m interested in Programming & English 
 >>>> 😊 I will spend my whole life to explore my hobiies
