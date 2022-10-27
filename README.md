@@ -1,10 +1,10 @@
 # 👋 Hi, weclome to my github page
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=10000&color=000000&multiline=true&width=435&height=80&lines=printf(%22Hello%2CWorld!%22))](https://github.com/Heckerji/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=10000&color=000000&multiline=true&width=435&height=80&lines=printf(%22Hello%2CWorld!%22))]()
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=10000&color=000000&multiline=true&width=600&height=80&lines=std%3A%3Acout+%3C%3C+%22Hello%2CWorld!%22+%3C%3C+std%3A%3Aendl)](https://github.com/Heckerji/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=10000&color=000000&multiline=true&width=600&height=80&lines=std%3A%3Acout+%3C%3C+%22Hello%2CWorld!%22+%3C%3C+std%3A%3Aendl)]()
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=10000&color=000000&multiline=true&width=900&height=80&lines=DbgPrintEx(DPFLTR_IHVDRIVER_ID%2C+DPFLTR_ERROR_LEVEL%2C+%22Hello%2CWorld!%22))](https://github.com/Heckerji/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=10000&color=000000&multiline=true&width=900&height=80&lines=DbgPrintEx(DPFLTR_IHVDRIVER_ID%2C+DPFLTR_ERROR_LEVEL%2C+%22Hello%2CWorld!%22))]()
 
 - 😁 I'm Derki , 20 years old
 - 🐣 A first year security developer in china
