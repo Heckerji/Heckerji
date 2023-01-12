@@ -9,8 +9,6 @@
 - 😁 I'm Derki , 20 years old
 - 🐣 A first year security developer in china
 - 🌱 Currently learning english
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerKiChong&hide_title=true&hide_border=true&langs_count=6&theme=graywhite" />
-
 
 
 <!---
